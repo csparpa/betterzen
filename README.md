@@ -1,6 +1,6 @@
 #betterzen#
 
-A revised version of the **Zen of Python** by.
+A revised version of the **Zen of Python**.
 
 Lets you print out the whole Zen or just single aphorisms from it, chosen randomly or filtered according a list of keywords.
 
